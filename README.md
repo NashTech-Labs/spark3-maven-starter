@@ -3,7 +3,7 @@ This project provides a starter template for building a Spark 3.0.0 project with
 
 All required dependencies for Spark SQL are added in this template
 
-####This setup features:
+#### This setup features:
 
     Spark 3.0.0
     Scala 2.12.8
