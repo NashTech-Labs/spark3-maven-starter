@@ -8,15 +8,15 @@ All required dependencies for Spark SQL are added in this template
     Spark 3.0.0
     Scala 2.12.8
     
-####To start building the project:
+#### To start building the project:
     mvn clean install
     
-####This setup also features following plugins:
+#### This setup also features following plugins:
     Scala-style : For better coding style
     Scoverage   : For better code coverage
     
-#####Running Scala-style:
+##### Running Scala-style:
     mvn scalastyle:check
     
-#####Running Scoverage:
+##### Running Scoverage:
     mvn scoverage:check
